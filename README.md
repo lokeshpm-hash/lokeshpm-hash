@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Lokesh 👋
 
-<!--
-**lokeshpm-hash/lokeshpm-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GenAI/ML Python Developer at Yoho Technologies.
 
-Here are some ideas to get you started:
+## What I work with
+- Python, SQL
+- [add the tools you actually use: e.g. LLM APIs, Hugging Face, FastAPI]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+- Python in depth: files, databases, OOP
+- GenAI: RAG, agents, evaluation
+
+## Projects
+- [Contact Book](link): command-line contact manager
+- [To-Do App](link): tasks with priorities and due dates, saved to JSON
+- [Password Generator](link): secure passwords with a strength checker
